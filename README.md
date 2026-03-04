@@ -1,7 +1,7 @@
 # jellyfin-login-page
 This mod will give a nice professional and minimalistic login screen for your Jellyfin instance
 
-This mod is exclusively CSS based and will require you to have a file storage server somewhere to host your image files. Paste the code below in CSS box in the Branding Section of Jellyfin. Be sure to paste in your image file links. I have included a nice background image for oyu to use if you don't an image already. ENJOY!
+This mod is exclusively CSS based and will require you to have a file storage server somewhere to host your image files. Paste the code below in CSS box in the Branding Section of Jellyfin. Be sure to paste in your image file links. I have included a nice background image for you to use if you don't an image already. ENJOY!
 
 # CSS-Login-Page
 
